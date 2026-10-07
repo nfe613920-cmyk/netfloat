@@ -1,0 +1,8 @@
+/netfloat
+/*.tar.gz
+/build/
+*.o
+*.log
+*.swp
+*~
+.DS_Store

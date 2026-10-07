@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>NetFloat</title>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="#1c1c1c" fill-opacity=".62" stroke="#ffffff" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M21 15v32m-11-11 11 11 11-11" fill="none" stroke="#c9c9c9" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+  <path d="M43 49V17m-11 11 11-11 11 11" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+</svg>
